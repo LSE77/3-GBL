@@ -1,0 +1,19 @@
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 1
+ | > Torch seed: 1
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=D:/3-GBL/xtts_training_output/XTTS_KSS_finetune-July-16-2025_09+39AM-0000000
+
+ > Model has 518442047 parameters
+
+[4m[1m > EPOCH: 0/1000[0m
+ --> D:/3-GBL/xtts_training_output/XTTS_KSS_finetune-July-16-2025_09+39AM-0000000
+
+[1m > TRAINING (2025-07-16 09:39:16) [0m
